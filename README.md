@@ -3,8 +3,6 @@
 
 <!--
 **AriscaPramalistyo05/AriscaPramalistyo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
  👋 About Me  <br><br>Hi there! I'm **Arisca Pramalistyo**, a passionate **Software Engineer** student currently in my sixth semester at **Politeknik Balekambang Jepara**.  <br><br>🚀 I have hands-on experience as a participant in **Coding Camp 2025 powered by DBS Foundation**, where I explored both **Front-End and Back-End development**.  <br>💻 My main interest lies in **web development**, and I'm constantly learning new technologies to enhance my skills in building efficient, scalable, and user-friendly applications.  <br>🌱 Currently, I'm delving deeper into **modern JavaScript frameworks** and **back-end technologies** to strengthen my full-stack development capabilities.  <br>📫 Feel free to connect with me and check out my projects! Let's build something awesome together! 🚀  
 
 
